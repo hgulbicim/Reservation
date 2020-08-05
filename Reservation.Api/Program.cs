@@ -6,6 +6,7 @@ namespace Reservation.Api
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Hello World!");
         }
     }
